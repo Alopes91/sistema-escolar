@@ -86,7 +86,7 @@ Com o objetivo de permitir a navegação entre as cinco telas, este projeto apre
 Todo o projeto foi desenvolvido no IDE Visual Studio Code.
 
 
-# Instruções sobre como instalar e executar o aplicativo.
+# Instruções sobre como instalar e executar o aplicativo
 
 ## Bem-vindo ao seu aplicativo Expo 👋
 
