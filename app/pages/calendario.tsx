@@ -44,7 +44,6 @@ export default function App(){
             <Text style={Estilo.p}><Text style={{ fontWeight: "bold" }}>Feira Cultural:</Text> 30 de novembro;</Text>
             <Text style={Estilo.p}><Text style={{ fontWeight: "bold" }}>Olímpiadas de Matemática:</Text> de 2 a 6 de dezembro de 2024.</Text>
             
-
             <Text style={Estilo.h3}>Feriados e Recessos</Text>
             
             <Text style={Estilo.p}></Text>
